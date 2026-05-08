@@ -1,2 +1,2 @@
-# perceptron
+# preceptron
 
